@@ -37,8 +37,10 @@ Plan your security groups, network ACLs, and access controls to ensure a secure 
 Use AWS CloudWatch: Monitor your VPC and resources for performance and health. Configure logging and auditing: Track access and activity within your VPC for security and compliance. Implement security best practices: Regularly review and update your security configuration. Scale and adjust as needed: Adjust your VPC infrastructure to meet changing demands.
 
 ## Output:
-<img width="1912" height="969" alt="Screenshot 2025-10-24 164538" src="https://github.com/user-attachments/assets/ecbf802f-ce8f-474f-980c-cbfac212e955" />
-<img width="1912" height="983" alt="Screenshot 2025-10-24 165041" src="https://github.com/user-attachments/assets/ea28f324-1eb6-497a-9516-0689cd947b80" />
+
+![WhatsApp Image 2025-11-01 at 10 13 37_b51aff03](https://github.com/user-attachments/assets/ef119907-cc43-4dc7-9ac5-6535f69a7dae)
+
+
 
 ## RESULT:
 The VPC is successfully created.
